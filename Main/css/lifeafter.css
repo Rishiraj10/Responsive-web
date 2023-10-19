@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    font-family: sans-serif;
+    list-style-type: none;
+}
+li {
+  
+    position: relative;
+    padding-left: 15px;
+    font-size: 1.2rem;
+    color: #aaa4a4;
+  }
+.section .text {
+    background-color: #252121;
+    display: flex;
+  
+}
+.section p{
+    height: 250px;
+ 
+}
+.text h1{
+    margin: 0;
+    color: rgb(220, 93, 255);
+}
+section p{
+ color: #aaa4a4;
+}
+.pics img{
+    position: relative;
+    padding-left: 10px;
+    height: 200px;
+    
+}
